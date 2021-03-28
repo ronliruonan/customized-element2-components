@@ -42,9 +42,11 @@ export default Vue.extend({
 
 <style>
 .active-asc .sort-caret.ascending {
+  /* 按钮主题色 */
   border-bottom-color: #409EFF;
 }
 .active-desc .sort-caret.descending {
+  /* 按钮主题色 */
   border-top-color: #409EFF;
 }
 
