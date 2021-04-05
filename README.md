@@ -1,4 +1,4 @@
-# customized-element2-vue2
+# customized-element2-components
 
 ## Project setup
 ```
